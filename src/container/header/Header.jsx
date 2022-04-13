@@ -1,5 +1,5 @@
 import React from 'react'
-import BgImg from "../../assets/Banner-20220412T084819Z-001/Banner/Banner landing page@3x.png"
+// import BgImg from "../../assets/Banner-20220412T084819Z-001/Banner/Banner landing page@3x.png"
 import "./Header.css"
 import Logo from "../../assets/Logo-20220412T084820Z-001/Logo/Asset 8@3x.png"
 const Header = () => {
