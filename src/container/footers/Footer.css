@@ -1,0 +1,10 @@
+.footer_bg{
+    /* background-color: #375A64; */
+    width: 100%;
+    height: 70vh;
+    margin-top: 1rem;
+}
+.footer_bg img {
+    width: 100%;
+    height: 100%;
+}

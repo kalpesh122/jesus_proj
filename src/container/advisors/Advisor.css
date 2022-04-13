@@ -1,0 +1,10 @@
+.adv_bg{
+    width: 100%;
+    height: 80vh;
+    /* margin-bottom: 2rem; */
+}
+
+.adv_bg img {
+    width: 100%;
+    height: 100%;
+}

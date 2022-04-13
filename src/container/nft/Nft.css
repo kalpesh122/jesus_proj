@@ -1,0 +1,9 @@
+.nft_bg{
+    width: 100%;
+    height: 80vh;
+    /* margin-bottom: 2rem; */
+}
+.nft_bg img{
+    width: 100%;
+    height: 100%;
+}

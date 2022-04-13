@@ -1,23 +1,23 @@
-import logo from './logo.svg';
 import './App.css';
-
-function App() {
+import { Header, Advisor, AppSection, Earn, Footer, FoundationStory, Goal, Nft, Partners, RoadMap, RonToken, RunieToken, Team, Tokenomic, About } from "./container"
+const App = () => {
   return (
     <div className="App">
-      <header className="App-header">
-        <img src={logo} className="App-logo" alt="logo" />
-        <p>
-          Edit <code>src/App.js</code> and save to reload.
-        </p>
-        <a
-          className="App-link"
-          href="https://reactjs.org"
-          target="_blank"
-          rel="noopener noreferrer"
-        >
-          Learn React
-        </a>
-      </header>
+      <Header />
+      <About />
+      <Goal />
+      <AppSection />
+      <Earn />
+      <Tokenomic />
+      <RunieToken />
+      <RonToken />
+      <Nft />
+      <RoadMap />
+      <Advisor />
+      <Team />
+      <FoundationStory />
+      <Partners />
+      <Footer />
     </div>
   );
 }
